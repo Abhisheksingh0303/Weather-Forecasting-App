@@ -58,5 +58,5 @@ This project is open-source and available under the [MIT License](LICENSE). You 
 
 ## Contact
 
-For any questions, feedback, or issues, please contact us at [abhisheksingh81037272@gmail.com(mailto:abhisheksingh81037272@gmail.com).
+For any questions, feedback, or issues, please contact us at [abhisheksingh81037272@gmail.com]
 
